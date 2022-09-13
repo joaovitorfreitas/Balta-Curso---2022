@@ -1,0 +1,16 @@
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.csprojAssemblyReference.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.AssemblyInfoInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.AssemblyInfo.cs
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\bin\Debug\net5.0\TratamentoErros.exe
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\bin\Debug\net5.0\TratamentoErros.deps.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\bin\Debug\net5.0\TratamentoErros.runtimeconfig.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\bin\Debug\net5.0\TratamentoErros.runtimeconfig.dev.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\bin\Debug\net5.0\TratamentoErros.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\bin\Debug\net5.0\ref\TratamentoErros.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\bin\Debug\net5.0\TratamentoErros.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\ref\TratamentoErros.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\TratamentoErros\obj\Debug\net5.0\TratamentoErros.genruntimeconfig.cache

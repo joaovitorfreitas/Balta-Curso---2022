@@ -1,0 +1,16 @@
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\bin\Debug\net5.0\editorHtml.exe
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\bin\Debug\net5.0\editorHtml.deps.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\bin\Debug\net5.0\editorHtml.runtimeconfig.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\bin\Debug\net5.0\editorHtml.runtimeconfig.dev.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\bin\Debug\net5.0\editorHtml.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\bin\Debug\net5.0\ref\editorHtml.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\bin\Debug\net5.0\editorHtml.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.csprojAssemblyReference.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.AssemblyInfoInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.AssemblyInfo.cs
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.csproj.CoreCompileInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\ref\editorHtml.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\editorHtml\obj\Debug\net5.0\editorHtml.genruntimeconfig.cache

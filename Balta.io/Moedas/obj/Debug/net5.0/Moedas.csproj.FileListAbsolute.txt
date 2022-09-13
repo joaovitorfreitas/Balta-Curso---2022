@@ -1,0 +1,16 @@
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\bin\Debug\net5.0\Moedas.exe
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\bin\Debug\net5.0\Moedas.deps.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\bin\Debug\net5.0\Moedas.runtimeconfig.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\bin\Debug\net5.0\Moedas.runtimeconfig.dev.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\bin\Debug\net5.0\Moedas.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\bin\Debug\net5.0\ref\Moedas.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\bin\Debug\net5.0\Moedas.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.csprojAssemblyReference.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.AssemblyInfo.cs
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\ref\Moedas.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\Moedas\obj\Debug\net5.0\Moedas.genruntimeconfig.cache

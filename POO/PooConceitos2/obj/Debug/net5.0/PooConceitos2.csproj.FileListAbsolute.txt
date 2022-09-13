@@ -1,0 +1,16 @@
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\bin\Debug\net5.0\PooConceitos2.exe
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\bin\Debug\net5.0\PooConceitos2.deps.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\bin\Debug\net5.0\PooConceitos2.runtimeconfig.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\bin\Debug\net5.0\PooConceitos2.runtimeconfig.dev.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\bin\Debug\net5.0\PooConceitos2.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\bin\Debug\net5.0\ref\PooConceitos2.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\bin\Debug\net5.0\PooConceitos2.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.csprojAssemblyReference.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.AssemblyInfoInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.AssemblyInfo.cs
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.csproj.CoreCompileInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\ref\PooConceitos2.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\POO\PooConceitos2\obj\Debug\net5.0\PooConceitos2.genruntimeconfig.cache

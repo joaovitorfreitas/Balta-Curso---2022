@@ -1,0 +1,16 @@
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\bin\Debug\net5.0\datasTratative.exe
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\bin\Debug\net5.0\datasTratative.deps.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\bin\Debug\net5.0\datasTratative.runtimeconfig.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\bin\Debug\net5.0\datasTratative.runtimeconfig.dev.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\bin\Debug\net5.0\datasTratative.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\bin\Debug\net5.0\ref\datasTratative.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\bin\Debug\net5.0\datasTratative.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.csprojAssemblyReference.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.AssemblyInfoInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.AssemblyInfo.cs
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.csproj.CoreCompileInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\ref\datasTratative.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\datasTratative\obj\Debug\net5.0\datasTratative.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\bin\Debug\net5.0\formatsStrings.exe
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\bin\Debug\net5.0\formatsStrings.deps.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\bin\Debug\net5.0\formatsStrings.runtimeconfig.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\bin\Debug\net5.0\formatsStrings.runtimeconfig.dev.json
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\bin\Debug\net5.0\formatsStrings.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\bin\Debug\net5.0\ref\formatsStrings.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\bin\Debug\net5.0\formatsStrings.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.csprojAssemblyReference.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.AssemblyInfoInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.AssemblyInfo.cs
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.csproj.CoreCompileInputs.cache
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\ref\formatsStrings.dll
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.pdb
+C:\Users\DarkC\Desktop\Codigos\Balta.io\Balta.io\stringsTratativas\formatsStrings\obj\Debug\net5.0\formatsStrings.genruntimeconfig.cache
